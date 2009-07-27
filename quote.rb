@@ -25,7 +25,8 @@ class Quote
   "X is a tiny wart on the giant ass of Craigslist.",
   "What's after satellite radio? The satellite newspaper? The satellite stone tablet?",
   "Like a snowman taking a dump on a unicorn that's on fire",
-  "Did [Humpty] get his deviated septum fixed?"]
+  "Did [Humpty] get his deviated septum fixed?",
+  "We have made great strides in operating efficiencies in the third quarter and remain committed to building a leading Internet media company"]
   
   def self.random
     QUOTES.sort!{rand}.first
